@@ -1,6 +1,0 @@
-streamlit
-pandas
-numpy requests
-pickle4
-gunicorn
-scikit-learn
